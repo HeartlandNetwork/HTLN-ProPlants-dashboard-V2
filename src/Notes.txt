@@ -9,5 +9,23 @@ Need to sort out problem with HOME and HOSP parks - When you select data for HOM
 
 Getting started
 
-Need a copy of the draft data package - copy to src folder 
+Need a copy of the draft data package - copy to src folder
+
+What are the questions?
+
+Why does HOSP display when you select HOME in the dashboard? 
+
+Tasks 
+    (1) Create a python condas environment called proplants-dashboard
+	(2) Load pandas and matplotlib
+	(3) Load final version of csv file into dataframe
+	(4) Filter just the Homestead data
+	(5) Plot a histogram of the latitude coordinates
+	(6) Plot a histogram of the longitude coordinates
+	
+	
+	
+	
+
+
 
