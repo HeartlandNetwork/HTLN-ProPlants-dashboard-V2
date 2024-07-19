@@ -1,0 +1,13 @@
+
+Notes.txt
+
+20240719
+
+Problem
+
+Need to sort out problem with HOME and HOSP parks - When you select data for HOME, you get records in HOSP showing up - This dataset (PBIX) was the working version created by Jeremy - The source of the data was from the draft invasive plants data package
+
+Getting started
+
+Need a copy of the draft data package - copy to src folder 
+
